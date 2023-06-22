@@ -1,2 +1,2 @@
 # codeforces
-100 Easy Problems (Bootcamp)
+100 Easy Problems
